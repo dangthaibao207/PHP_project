@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dann</h1>
+<h1 align="center">Hi 👋, I'm Đặng Thái Bảo</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🤝 I’m looking for help with **PHP**
